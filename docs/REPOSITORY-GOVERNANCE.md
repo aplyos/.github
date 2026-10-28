@@ -1,6 +1,6 @@
 # APLYOS Repository Governance — Idea Intake and Assignment Policy
 
-**Version:** 1.0.0  
+**Version:** 1.1.0  
 **Status:** Active organizational policy  
 **Scope:** All repositories under the `aplyos` GitHub organization  
 **Language:** English  
@@ -67,15 +67,23 @@ Do not silently delete history or maintain two active canonical copies.
 
 Use English for this organization-wide policy. For project content, respect the established language preference of the project or the user's explicit request. Do not translate existing records without authorization. Avoid redundant documents and unnecessary architecture expansions.
 
-## 8. Chat-to-GitHub archival rule
+## 8. Labels and assignee discipline
+
+Before creating or updating an issue, inspect existing labels and assignment conventions in the destination repository. Prefer existing labels with established meaning; do not invent or proliferate near-duplicate labels. Apply only labels that accurately describe the issue's type, lifecycle state or domain. Do not use a priority, implementation, release or approval label to imply a decision that has not been made. If an appropriate label is unavailable, leave the issue unlabeled and propose a deliberate taxonomy change rather than silently creating a new label.
+
+Assignees represent an actual accountable owner of the next action, not the person who suggested or captured an idea. Unapproved reference ideas should normally remain unassigned. Assign only a valid GitHub account with a known, agreed responsibility; never infer ownership from repository membership, issue authorship or a potential product consumer. If assignment is unclear, leave it empty.
+
+Before changing labels or assignees on an existing issue, preserve unrelated metadata and verify the resulting state. Report applied labels, assignment (including none) and any unavailable convention. Do not equate an open issue with an active development task.
+
+## 9. Chat-to-GitHub archival rule
 
 Before declaring a chat safe to delete, verify that its durable decisions, relevant sources, unresolved items, and authoritative links are actually recorded in GitHub or another designated durable destination. A summary alone is not proof of a completed transfer. Report what was verified and what remains uncertain.
 
-## 9. Enforcement and limitations
+## 10. Enforcement and limitations
 
 This document is the authoritative organizational routing policy. It guides contributors and assistants but is **not an automated enforcement mechanism**. Future sessions or tools must consult it before writing; its existence alone does not guarantee automatic compliance. Stronger enforcement requires separate technical controls or workflow validation.
 
-## 10. Example: Cyberdrop-DL
+## 11. Example: Cyberdrop-DL
 
 Cyberdrop-DL is an external reference for possible download management concepts, not an approved Hibase feature.
 
