@@ -6,9 +6,13 @@ APLYOS develops modular software systems, frameworks and digital applications wi
 
 ## Software Foundation
 
-- **APLYOS Base** — Central software stack and development foundation.
-- **APLYOS Hibase** — Application Framework and system foundation.
-- **APLYOS Vibase** — Interface Framework for modern web applications.
+- **APLYOS Engine** — Modular application framework and shared system foundation.
+- **APLYOS API** — Central interface for shared APLYOS services.
+
+## Products
+
+- **APLYOS Licensio** — Central administration for licenses, activations and releases.
+- **APLYOS Mindspace** — Visual workspace for structures and connections.
 
 ## Software Platforms
 
@@ -26,6 +30,10 @@ APLYOS develops modular software systems, frameworks and digital applications wi
 APLYOS software products are developed with an emphasis on modular architecture, reusable components, security and long-term maintainability.
 
 Projects are currently under development. Public availability and release schedules will be announced individually.
+
+## Legacy
+
+[APLYOS Legacy](https://github.com/aplyos-legacy) preserves discontinued projects and historical source, including Vibase from the former APLYOS Base initiative.
 
 ## Contact
 
