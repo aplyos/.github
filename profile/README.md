@@ -1,36 +1,22 @@
 # APLYOS Software Systems
 
-**Software. Applications. Digital Solutions.**
+APLYOS develops software for managing licenses, organizing ideas visually and supporting notarial work. Its applications are backed by a shared framework and services.
 
-APLYOS develops modular software systems, frameworks and digital applications with a focus on flexibility, scalability and maintainability.
+## Applications
 
-## Software Foundation
+- **APLYOS Licensio** manages software licenses, activations, releases and updates.
+- **APLYOS Mindspace** is a local-first workspace for mapping ideas, structures and relationships.
+- **APLYOS Notaris** is a modular workspace for notarial tools and workflows.
 
-- **APLYOS Base** — Central software stack and development foundation.
-- **APLYOS Hibase** — Application Framework and system foundation.
-- **APLYOS Vibase** — Interface Framework for modern web applications.
+## Platforms and shared tools
 
-## Software Platforms
+- **APLYOS CMS** manages content for websites and applications.
+- **APLYOS OSP** supports service operations across systems, projects and customers.
+- **APLYOS OSM** supports business processes and administration.
+- **APLYOS Engine** provides a modular application framework and shared infrastructure.
+- **APLYOS API** is the central interface for shared services, including licensing.
+- **APLYOS Installer** is the shared web installer for APLYOS applications.
 
-- **APLYOS CMS** — Content Management System for websites and digital applications.
-- **APLYOS OSP** — Operations & Service Platform for managing systems, projects, customers and services.
-- **APLYOS OSM** — Operations & Service Management for business processes and administration.
-- **APLYOS NTP** — Modular notary workspace and tool platform.
+[APLYOS Legacy](https://github.com/aplyos-legacy) preserves historical source and discontinued projects, including Vibase.
 
-## Development Tools
-
-- **APLYOS Installer** — Universal web installer for APLYOS software products and platforms.
-
-## Development
-
-APLYOS software products are developed with an emphasis on modular architecture, reusable components, security and long-term maintainability.
-
-Projects are currently under development. Public availability and release schedules will be announced individually.
-
-## Contact
-
-**Website:** https://aplyos.com
-
-**Email:** hello@aplyos.com
-
-© APLYOS Software Systems
+[Website](https://aplyos.com) · [Contact](mailto:hello@aplyos.com)
