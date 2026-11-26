@@ -1,6 +1,6 @@
 # APLYOS Software Systems
 
-APLYOS develops software for managing licenses, organizing ideas visually and supporting notarial work. Its applications are backed by a shared framework and services.
+APLYOS Software Systems develops modular software for web and desktop. We build applications and platforms that help people organize information, coordinate work and manage business operations. We also develop the frameworks, services and tools used to build and deliver that software.
 
 ## Applications
 
@@ -14,7 +14,7 @@ APLYOS develops software for managing licenses, organizing ideas visually and su
 - **APLYOS OSP** supports service operations across systems, projects and customers.
 - **APLYOS OSM** supports business processes and administration.
 - **APLYOS Engine** provides a modular application framework and shared infrastructure.
-- **APLYOS API** is the central interface for shared services, including licensing.
+- **APLYOS API** is the central interface for shared services.
 - **APLYOS Installer** is the shared web installer for APLYOS applications.
 
 [APLYOS Legacy](https://github.com/aplyos-legacy) preserves historical source and discontinued projects, including Vibase.
